@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Glasgow Music Guide</string>
+    <string name="shops">Shops</string>
+    <string name="venues">Venues</string>
+    <string name="clubs">Clubs</string>
+    <string name="bands">Bands</string>
+
+    // Strings for The Barrowland Ballroom
+    <string name="barras_name">The Barrowland Ballroom</string>
+    <string name="barras_address">244 Gallowgate, G4 0TT</string>
+    <string name="barras_phone">0141 552 4601</string>
+    <string name="barras_web">glasgow-barrowland.com</string>
+    <string name="barras_description">Capacity: 2100\n\nThe original building opened in 1934 in a mercantile area east of Glasgow"'"s city centre, built by "Barra Queen" Maggie McIver. The "Barras" street market (more properly Glasgow Barrowland market), after which the area and the ballroom are named, continues until the present day. The Barrowland building includes large street-level halls used for the weekend markets, with a sizeable weatherproof hall above. The front of the building is decorated with a distinctive animated neon sign. The sign is believed to be the biggest of its kind in the UK, although this cannot be confirmed as the original order documents detailing the specifications of the sign have been lost.</string>
+
+    // Strings for The o2 Academy
+    <string name="o2Academy_name">The o2 Academy</string>
+    <string name="o2Academy_address">121 Eglinton St, G5 9NT</string>
+    <string name="o2Academy_phone">0141 418 3000</string>
+    <string name="o2Academy_web">academymusicgroup.com/o2academyglasgow/</string>
+    <string name="o2Academy_description">Capacity: 2500\n\nThe O2 Academy Glasgow (formerly the Carling Academy Glasgow) is a music venue on Eglinton Street in the Gorbals (Laurieston) area of Glasgow. It is one of two Academy Music Group venues in Glasgow; the other venue is the O2 ABC Glasgow.\n\nThe venue is housed in the former New Bedford Cinema which underwent a £3 million refurbishment project to turn it into a 2,500 person music venue. The venue opened on 26 March 2003 with the band Deacon Blue, Singer Bryan Ferry and girl group Sugababes after 10 years of the building being closed and in disrepair.</string>
+
+    // Strings for The SSE Hydro
+    <string name="hydro_name">The SSE Hydro</string>
+    <string name="hydro_address">Exhibition Way, G3 8YW</string>
+    <string name="hydro_phone">0141 248 3000</string>
+    <string name="hydro_web">thessehydro.com/</string>
+    <string name="hydro_description">Capacity: 13000\n\nThe SSE Hydro is a multi-purpose indoor arena located within the Scottish Event Campus in Glasgow, Scotland. The arena was initially named The Hydro after its main sponsor, energy company Scottish and Southern Energy subsidiary Scottish Hydro. The company then re-branded itself and its subsidiary companies as SSE, however the Hydro name was retained despite it no longer being a trading name. The arena was designed by the London-based architects Foster + Partners and officially opened on 30 September 2013, with a concert by Rod Stewart.\n\nWithin 3 years of opening, the SSE Hydro became the eighth-busiest venue worldwide. The arena handled 751,487 ticket sales making it the eighth-busiest music arena in the world in terms of ticket sales. It also hosted the UFC"'"s first event in Scotland – an event which was impossible to hold in any other arena in the country.</string>
+
+    // Strings for King Tut's
+    <string name="kingtuts_name">King Tut"'"s Wah Wah Hut</string>
+    <string name="kingtuts_address">272A St Vincent St, G2 5RL</string>
+    <string name="kingtuts_phone">0141 221 5279</string>
+    <string name="kingtuts_web">kingtuts.co.uk/</string>
+    <string name="kingtuts_description">Capacity: 300\n\nKing Tut"'"s Wah Wah Hut, also known as King Tut"'"s, is a live music venue and bar on St. Vincent Street, Glasgow, Scotland. It is owned and managed by Glasgow-based gig promoters DF Concerts.\n\nThe Glasgow live music venue takes its name from a club in New York that hosted music, comedy and performing arts events in the 1980s.</string>
+
+    // Strings for Sub Club
+    <string name="subclub_name">Sub Club</string>
+    <string name="subclub_address">22 Jamaica St, G1 4QD</string>
+    <string name="subclub_phone">0141 248 4600</string>
+    <string name="subclub_web">subclub.co.uk/</string>
+    <string name="subclub_description">The Sub Club is a club and music venue located at 22 Jamaica Street in Glasgow, Scotland. It opened 1 April 1987, 4:20am and is the longest running underground dance club in the world. The 3,500-square-foot (330 m2) basement space can legally hold up to 410 people (600 children). In 2008 it was voted the 10th best club in the world by Resident Advisor(and 5th for atmosphere) and the 30th best club in the world by DJ Mag. In 2009 the club was placed 14th best in the world by DJ Mag.</string>
+
+    // Strings for SWG3
+    <string name="swg3_name">SWG3 Studio Warehouse</string>
+    <string name="swg3_address">100 Eastvale Pl, G3 8QG</string>
+    <string name="swg3_phone">0141 337 1731</string>
+    <string name="swg3_web">swg3.tv</string>
+    <string name="swg3_description">SWG3 is a multi disciplinary arts venue and events company.\n\nNow one of the leading venues and locations to hire in Glasgow, the SWG3 Complex play host to a multitude of different types of events, ranging from niche product launches to global brand activation, corporate dinners, fashion shows and Food and Drink events.</string>
+
+    // Strings for The Berkeley Suite
+    <string name="berkeley_name">The Berkeley Suite</string>
+    <string name="berkeley_address">237 North St, G3 7DL</string>
+    <string name="berkeley_phone">0141 221 2451</string>
+    <string name="berkeley_web">berkeleysuite.com</string>
+    <string name="berkeley_description">Nestled in a Charing Cross basement, behind an unassuming pawn shop sign, The Berkeley Suite is one of Glasgow most intimate and beautifully stylish venues. It plays host to some of the Finest DJ’s from around the globe as well as some of the most cutting edge and renowned underground club events this side of the disco.\n\nPowered by a bespoke custom built sound system from Glasgow’s We Enjoy Sound, it is clear, warm, and everything you could want for a room of that size.</string>
+
+    // Strings for Fopp
+    <string name="fopp_name">Fopp</string>
+    <string name="fopp_address">19 Union St, G1 3RB</string>
+    <string name="fopp_phone">0333 323 4764</string>
+    <string name="fopp_web">fopp.com</string>
+    <string name="fopp_description">Fopp is a Scottish chain of retail stores selling music, film, books and other entertainment products in the United Kingdom. The company began as a one-man stall in Glasgow, Scotland in 1981. The name "Fopp" comes from the title of a song by the Ohio Players on their 1975 album Honey.</string>
+
+    // Strings for Love Music
+    <string name="lovemusic_name">Love Music</string>
+    <string name="lovemusic_address">34 Dundas St, G1 2AQ</string>
+    <string name="lovemusic_phone">0141 332 2099</string>
+    <string name="lovemusic_web">lovemusicglasgow.com</string>
+    <string name="lovemusic_description">Love Music are an independent record shop in Glasgow, Scotland, UK.   They buy and sell recorded music on CDs, vinyl and occasionally cassette.</string>
+
+    // Strings for Monorail Music
+    <string name="monorailmusic_name">Monorail Music</string>
+    <string name="monorailmusic_address">97 King Street, 12 King"'"s Court, G1 5RB</string>
+    <string name="monorailmusic_phone">0141 5529458</string>
+    <string name="monorailmusic_web">monorailmusic.com</string>
+    <string name="monorailmusic_description">Monorail Music opened in December 2002 after a sometimes epic three year long journey in search of a location and a way to make it all work. Glasgow then was a vibrant music city with something important missing, a great record shop, which Monorail optimistically felt that they could provide. Operating from modest premises in a former Mexican restaurant, they’ve tried their best to provide the kind of record shop that they would like to visit on their travels.</string>
+
+    // Strings for Belle and Sebastian
+    <string name="belle_name">Belle and Sebastian</string>
+    <string name="belle_web">belleandsebastian.com/</string>
+    <string name="belle_description">Belle and Sebastian are a Scottish band formed in Glasgow in January 1996. Led by Stuart Murdoch, the band has released 9 albums to date. Much of their work had been released on Jeepster Records, but they are now signed to Rough Trade Records in the United Kingdom and Matador Records in the United States. </string>
+
+    // Strings for Primal Scream
+    <string name="primal_name">Primal Scream</string>
+    <string name="primal_web">primalscream.net/</string>
+    <string name="primal_description">Primal Scream are a Scottish rock band originally formed in 1982 in Glasgow by Bobby Gillespie (vocals) and Jim Beattie. The current lineup consists of Gillespie, Andrew Innes (guitar), Martin Duffy (keyboards), Simone Butler (bass) and Darrin Mooney (drums). Barrie Cadogan has toured and recorded with the band since 2006 as a replacement after the departure of guitarist Robert "Throb" Young.\n\nThe band performed throughout 1982–1984, but their career did not take off until Gillespie left his position as drummer of The Jesus and Mary Chain. The band were a key part of the mid-1980s indie pop scene, but eventually moved away from their more jangly sound, taking on more psychedelic and then garage rock influences, before incorporating a dance music element to their sound. Their 1991 album Screamadelica broke the band into the mainstream. Their latest album Chaosmosis was released on 18 March 2016.</string>
+
+    // Strings for CHVRCHES
+    <string name="chvrches_name">CHVRCHES</string>
+    <string name="chvrches_web">chvrch.es</string>
+    <string name="chvrches_description">Chvrches (pronounced "churches) are a Scottish synth-pop band from Glasgow, formed in September 2011. The band consists of Lauren Mayberry, Iain Cook and Martin Doherty. Mostly deriving from the synthpop genre, Chvrches also incorporates indietronica, indie pop, and electronic dance into their sound.\n\nTwo years after their formation, Chvrches released Recover EP in March 2013, which included hits "The Mother We Share" and "Recover". Their debut studio album, The Bones of What You Believe, was released on 20 September 2013, while the band was ranked fifth on the Sound of 2013 list by the BBC. Two years later, on 25 September 2015, the group released their second album, Every Open Eye. Their third album, Love Is Dead, will be released in 2018.</string>
+
+    // Strings for Franz Ferdinand
+    <string name="franz_name">Franz Ferdinand</string>
+    <string name="franz_web">franzferdinand.com/</string>
+    <string name="franz_description">Franz Ferdinand are a Scottish indie rock band, formed in 2002 and based in Glasgow. The band"'"s original lineup was composed of Alex Kapranos (lead vocals and guitar, keyboard), Nick McCarthy (rhythm guitar, keyboards and backing vocals), Bob Hardy (bass guitar), and Paul Thomson (drums, percussion and backing vocals). Julian Corrie (keyboards, synthesiser, guitar and backing vocals) and Dino Bardot (guitar and backing vocals) joined the band in 2017 after McCarthy left during the previous year. The band has been notable for being one of the more popular post-punk revival bands, garnering multiple UK top 20 hits. They have been nominated for several Grammy Awards and have received two Brit Awards – winning one for Best British Group – as well as one NME Award.</string>
+
+</resources>
